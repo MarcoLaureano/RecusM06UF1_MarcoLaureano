@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17.0.7" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="com.balmes.ArticlesCompra">
+    <void property="descripcio">
+     <string>Berserk Vol.13</string>
+    </void>
+    <void property="preu">
+     <double>11.0</double>
+    </void>
+    <void property="quantitat">
+     <double>20.0</double>
+    </void>
+    <void property="seccio">
+     <string>Norman Comics</string>
+    </void>
+    <void property="unitat">
+     <string>grams</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.balmes.ArticlesCompra">
+    <void property="descripcio">
+     <string>Botella de Agua</string>
+    </void>
+    <void property="preu">
+     <double>2.0</double>
+    </void>
+    <void property="quantitat">
+     <double>50.0</double>
+    </void>
+    <void property="seccio">
+     <string>Mercadona</string>
+    </void>
+    <void property="unitat">
+     <string>ml</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.balmes.ArticlesCompra">
+    <void property="descripcio">
+     <string>Panacotta</string>
+    </void>
+    <void property="preu">
+     <double>2.0</double>
+    </void>
+    <void property="quantitat">
+     <double>20.0</double>
+    </void>
+    <void property="seccio">
+     <string>Mercadona</string>
+    </void>
+    <void property="unitat">
+     <string>grams</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
